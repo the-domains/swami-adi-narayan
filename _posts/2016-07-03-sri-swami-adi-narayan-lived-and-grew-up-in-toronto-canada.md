@@ -3,14 +3,14 @@ description: >-
   Sri Swami Adi Narayan lived and grew up in Toronto, Canada. He attended the
   University of Toronto where he earned a B.Sc. Honours in Psychology before
   travelling to India to continue his education—in a different way
-dateModified: '2016-07-03T23:00:02.310Z'
-datePublished: '2016-07-03T23:00:38.061Z'
+dateModified: '2016-07-04T02:47:45.653Z'
+datePublished: '2016-07-04T02:48:07.004Z'
 title: ''
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b65c3c54-3cee-4718-afb8-95559c989434.jpg
-starred: false
 sourcePath: _posts/2016-07-03-sri-swami-adi-narayan-lived-and-grew-up-in-toronto-canada.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -51,13 +51,13 @@ _At times, you have left me near lifeless. I could not feel even my own heart be
 
 _At times, you have stolen from me peace that I have acquired after lifetimes and left me maddened by my screaming mind._
 
-_My bones have ached. My body bedridden. Years lost in the darkness with the absolutism of never-ending despair. _
+_My bones have ached. My body bedridden. Years lost in the darkness with the absolutism of never-ending despair._
 
 _All I had was lost to your Will._
 
-_You set my heart barren of all of you. Lifeless, mindless, a dark emptiness was my sentence at your hands. _
+_You set my heart barren of all of you. Lifeless, mindless, a dark emptiness was my sentence at your hands._
 
-_All this yet, I wonder everyday how I survived. The deepest part of my being, hidden from every part of me, you held in your deepest care. _
+_All this yet, I wonder everyday how I survived. The deepest part of my being, hidden from every part of me, you held in your deepest care._
 
 _Now I am alive again, with your Breath in my breath. My heart once again, beating steady and strong, in your Limitless Heart. My mind in peace again, in your Limitless Mind. All of me swells, just as the womb carries the unborn._
 
