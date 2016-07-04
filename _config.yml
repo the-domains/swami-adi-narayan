@@ -1,15 +1,15 @@
-layout_spectrum: 0.7199614036362618
-typography_spectrum: 0.5331931076943874
+layout_spectrum: 0.03679013694636524
+typography_spectrum: 0.46658284519799054
 color:
-  brandStrength: 0.5345962671563029
-  lightness: 0.8345877842511982
-  saturation: 0.614873280050233
-  rhythmicContrast: 0.30260199727490544
+  brandStrength: 0.2310418353881687
+  lightness: 0.6592109310440719
+  saturation: 0.6235532409045845
+  rhythmicContrast: 0.7953420244157314
   brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Swami Adi Narayan
 title: Sri Swami Adi Narayan
