@@ -1,15 +1,15 @@
-layout_spectrum: 0.5504690581001341
-typography_spectrum: 0.9696937550324947
+layout_spectrum: 0.7199614036362618
+typography_spectrum: 0.5331931076943874
 color:
-  brandStrength: 0.4960076881106943
-  lightness: 0.18639680463820696
-  saturation: 0.6779946412425488
-  rhythmicContrast: 0.27903057588264346
+  brandStrength: 0.5345962671563029
+  lightness: 0.8345877842511982
+  saturation: 0.614873280050233
+  rhythmicContrast: 0.30260199727490544
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
 name: Swami Adi Narayan
 title: Poet. Mystic.
