@@ -1,10 +1,10 @@
 ---
 description: >-
   Sri Swami Adi Narayan lived and grew up in Toronto, Canada. He attended the
-  University of Toronto where he earned a B.Sc. Honours in Psychology before
+  University of Toronto where he earned a BSc Honours in Psychology before
   travelling to India to continue his education—in a different way
-dateModified: '2016-07-04T03:47:31.664Z'
-datePublished: '2016-07-04T03:47:40.271Z'
+dateModified: '2016-07-04T04:14:45.877Z'
+datePublished: '2016-07-04T04:14:49.848Z'
 title: ''
 author: []
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/806bc56d-5c68-4bdc-b582-50d8d2b6078a.jpg)
 
-Sri Swami Adi Narayan lived and grew up in Toronto, Canada. He attended the University of Toronto where he earned a B.Sc. Honours in Psychology before travelling to India to continue his education---in a different way
+Sri Swami Adi Narayan lived and grew up in Toronto, Canada. He attended the University of Toronto where he earned a BSc Honours in Psychology before travelling to India to continue his education---in a different way
 
 In 1994, after a mystical calling through a dream, he travelled to South India to meet the living Master, Bhagavan Sri Sathya Sai Baba. For the next six years, he made numerous visits to be in the physical presence of Bhagavan, and permanently moved to the ashram in the year 2000\.
 
@@ -29,13 +29,13 @@ _"I entered into a spiritual state, feeling an absolute oneness with everything:
 
 He also recalls one of his deepest samadhi states, that of nirvikalpa samadhi, when more than seven hours elapsed in a seeming instant. _"Time exists only in the presence of mind,"_ says Swamiji. In that instance he had tapped into a level of no mind, setting questions that challenged him for a decade.
 
-Swamiji's spirituality blossomed during his time in India. One day during meditation, torrents of energy rushed through his body in waves imparting sensations of happiness, peace and boundless bliss. The next day, Bhagavan arranged an interview with Swamiji to talk to him privately about his experience. Bhagavan asked Swamiji,_"Boy, are you happy?"_ To which Swamiji ecstatically replied,_"Yes Swami, very very happy."_ Bhagavan further asked,_"Where are you happy?"_ Swamiji joyfully said, _"Happiness is everywhere."_ Then Bhagavan turned his hand towards his heart and as he touched his chest he responded, _"No, happiness is only inside. You have experienced union with the Divine. Union with God is the greatest happiness there is."_ Bhagavan said to Swamiji, _"It will come again, and again, and again."_ And it has. 
+Swamiji's spirituality blossomed during his time in India. One day during meditation, torrents of energy rushed through his body in waves imparting sensations of happiness, peace and boundless bliss. The next day, Bhagavan arranged an interview with Swamiji to talk to him privately about his experience. Bhagavan asked Swamiji,_"Boy, are you happy?"_ To which Swamiji ecstatically replied,_"Yes Swami, very very happy."_ Bhagavan further asked,_"Where are you happy?"_ Swamiji joyfully said, _"Happiness is everywhere."_ Then Bhagavan turned his hand towards his heart and as he touched his chest he responded, _"No, happiness is only inside. You have experienced union with the Divine. Union with God is the greatest happiness there is."_ Bhagavan said to Swamiji, _"It will come again, and again, and again."_ And it has.
 
 The next day, Bhagavan called Swamiji yet for another interview. He asked him again, _"Boy, are you happy?"_ To this Swamiji gleefully replied, _"Yes Swami very very happy."_Bhagavan asked, _"Where are you happy?"_ Swamiji this time took his hands to his heart and said, _"Happiness is inside."_Then in a grand gesture of Bhagavan waving his hands in front of his chest, Bhagavan exclaimed, _"No, no, no, happiness is everywhere, everywhere."_ Both of them erupted into blissful laughter together.
 
-After several interviews with his Master, Bhagavan instructed Swamiji in 2004 to return to Canada and begin teaching: _"Speak about union with God."_ Bhagavan said to Swamiji, _"To love me is to serve me, and to serve me is to leave me. Go do satsang, satsang, satsang, satsang, satsang, satsang, satsang." _
+After several interviews with his Master, Bhagavan instructed Swamiji in 2004 to return to Canada and begin teaching: _"Speak about union with God."_ Bhagavan said to Swamiji, _"To love me is to serve me, and to serve me is to leave me. Go do satsang, satsang, satsang, satsang, satsang, satsang, satsang."_
 
-Returning to Canada, Swamiji began holding satsangs in the form of spiritual talks and kirtans, by his first initiated name Swami Sai Premananda. Meanwhile, his transformation continued. 
+Returning to Canada, Swamiji began holding satsangs in the form of spiritual talks and kirtans, by his first initiated name Swami Sai Premananda. Meanwhile, his transformation continued.
 
 Since 2004, Swamiji has been entering states of bhava samadhi. During this period, the realization of the multifold dance of form and formlessness became apparent and illumined in the mind of Swamiji. All this led to the understanding of our innate oneness. As he explains, _"Non-duality holds that the fundamental quality imbuing every thing derives from a single undivided universal consciousness. Objects, animals, people and plants differ in form and function. At least, that is how we perceive them. But their nature and ours derive from the same underlying source, the oneness of universal consciousness. This single, non-dual oneness of being makes itself manifest in an infinite number of forms. We experience them as a myriad of objects and beings. But our seemingly separate and distinct human minds and egos derive from this oneness, too."_
 
@@ -47,7 +47,7 @@ When asked about his dark night of the soul, Swamiji spoke these words:
 
 _My Beloved, you have stripped me bare more than once in this life._
 
-_At times, you have left me near lifeless. I could not feel even my own heart beating in my chest. _
+_At times, you have left me near lifeless. I could not feel even my own heart beating in my chest._
 
 _At times, you have stolen from me peace that I have acquired after lifetimes and left me maddened by my screaming mind._
 
