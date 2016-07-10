@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sri Swami Adi Narayan]]></title>
-        <description><![CDATA[Sri Swami Adi Narayan]]></description>
+        <title><![CDATA["I passed through nothingness, and came back for love."]]></title>
+        <description><![CDATA["I passed through nothingness, and came back for love."]]></description>
         <link>https://thegrid.ai/swami-adi-narayan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 18:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2016 21:41:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/swami-adi-narayan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/647b5a47-eb60-4bbd-9072-45cfd2609c3e.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b65c3c54-3cee-4718-afb8-95559c989434.jpg</link>
+            <guid isPermaLink="false">6764fea6-1337-48b3-a3af-8fbb91f8d7d4</guid>
+            <pubDate>Sun, 10 Jul 2016 21:41:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0833936-5a14-44e1-b051-dfa510440197.jpg">]]></description>
             <link>https://thegrid.ai/swami-adi-narayan/8d86b5d6-8aab-4d05-95da-6215532d5a3e/index.html</link>
             <guid isPermaLink="false">8d86b5d6-8aab-4d05-95da-6215532d5a3e</guid>
             <pubDate>Sun, 10 Jul 2016 18:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/806bc56d-5c68-4bdc-b582-50d8d2b6078a.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b65c3c54-3cee-4718-afb8-95559c989434.jpg</link>
-            <guid isPermaLink="false">6764fea6-1337-48b3-a3af-8fbb91f8d7d4</guid>
-            <pubDate>Mon, 04 Jul 2016 04:14:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
