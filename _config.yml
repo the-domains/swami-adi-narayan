@@ -1,4 +1,3 @@
-layout_spectrum: 0.03679013694636524
 typography_spectrum: 0.46658284519799054
 color:
   brandStrength: 0.2310418353881687
@@ -11,5 +10,8 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.03679013694636524
 name: Swami Adi Narayan
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d6f70d1-4204-45d2-bb46-65cd5d1bdc74.jpg
 title: Sri Swami Adi Narayan
