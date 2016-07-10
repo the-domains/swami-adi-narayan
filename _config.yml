@@ -1,15 +1,15 @@
-typography_spectrum: 0.46658284519799054
+typography_spectrum: 0.985588223207742
 color:
-  brandStrength: 0.2310418353881687
-  lightness: 0.6592109310440719
-  saturation: 0.6235532409045845
-  rhythmicContrast: 0.7953420244157314
+  brandStrength: 0.17866795812733471
+  lightness: 0.6040168302133679
+  saturation: 0.23958262335509062
+  rhythmicContrast: 0.7619681125506759
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 layout_spectrum: 0.03679013694636524
 name: Sri Swami Adi Narayan
 favicon: >-
