@@ -3,17 +3,16 @@ description: >-
   Sri Swami Adi Narayan lived and grew up in Toronto, Canada. He attended the
   University of Toronto where he earned a BSc Honours in Psychology before
   travelling to India to continue his education—in a different way
-dateModified: '2016-07-10T22:13:57.247Z'
-datePublished: '2016-07-10T22:15:30.668Z'
+dateModified: '2016-08-02T04:37:07.968Z'
+datePublished: '2016-08-02T04:37:08.559Z'
 title: ''
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b65c3c54-3cee-4718-afb8-95559c989434.jpg
 sourcePath: _posts/2016-07-03-sri-swami-adi-narayan-lived-and-grew-up-in-toronto-canada.md
+hasPage: true
+publisher: {}
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: sri-swami-adi-narayan-lived-and-grew-up-in-toronto-canada/index.html
 _type: MediaObject
 
 ---
