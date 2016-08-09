@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T20:08:52.058Z'
+datePublished: '2016-08-09T20:15:24.050Z'
 sourcePath: _posts/2016-07-03-sri-swami-adi-narayan-lived-and-grew-up-in-toronto-canada.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T20:07:52.231Z'
+dateModified: '2016-08-09T20:15:09.501Z'
 title: ''
 publisher: {}
 description: Sri Swami Adi Narayan
@@ -88,15 +88,24 @@ This process culminated in the emergence of Swami Ji's spiritual grace and onene
 
 When asked about his dark night of the soul period, Swami Ji spoke these words:
 
-_My Beloved, you have stripped me bare more than once in this life._  
-_At times, you have left me near lifeless. I could not feel even my own heart beating in my chest._  
-_At times, you have stolen from me peace that I have acquired after lifetimes and left me maddened by my screaming mind._  
-_My bones have ached. My body bedridden. Years lost in the darkness with the absolutism of never-ending despair. _  
-_All I had was lost to your Will. _  
-_You set my heart barren of all of you. Lifeless, mindless, a dark emptiness was my sentence at your hands. _  
-_All this yet, I wonder everyday how I survived. The deepest part of my being, hidden from every part of me, you held in your deepest care. _  
-_Now I am alive again, with your Breath in my breath. My heart once again, beating steady and strong, in your Limitless Heart. My mind in peace again, in your Limitless Mind. All of me swells, just as the womb carries the unborn. _  
-_When next I am born, I will become empty yet again. And again you will enter and I will swell with the next, and the next, and the next._  
+_My Beloved, you have stripped me bare more than once in this life._
+
+_At times, you have left me near lifeless. I could not feel even my own heart beating in my chest._
+
+_At times, you have stolen from me peace that I have acquired after lifetimes and left me maddened by my screaming mind._
+
+_My bones have ached. My body bedridden. Years lost in the darkness with the absolutism of never-ending despair. _
+
+_All I had was lost to your Will. _
+
+_You set my heart barren of all of you. Lifeless, mindless, a dark emptiness was my sentence at your hands. _
+
+_All this yet, I wonder everyday how I survived. The deepest part of my being, hidden from every part of me, you held in your deepest care. _
+
+_Now I am alive again, with your Breath in my breath. My heart once again, beating steady and strong, in your Limitless Heart. My mind in peace again, in your Limitless Mind. All of me swells, just as the womb carries the unborn. _
+
+_When next I am born, I will become empty yet again. And again you will enter and I will swell with the next, and the next, and the next._
+
 _All of me your womb, O Eternal Being of beings._
 
 **Reflection. Transmission. Absorption.**
