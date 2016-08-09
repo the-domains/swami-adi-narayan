@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T03:31:20.354Z'
+datePublished: '2016-08-09T03:45:30.994Z'
 sourcePath: _posts/2016-07-03-sri-swami-adi-narayan-lived-and-grew-up-in-toronto-canada.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T03:31:19.874Z'
+dateModified: '2016-08-09T03:45:30.464Z'
 title: ''
 publisher: {}
 description: Sri Swami Adi Narayan
@@ -21,7 +21,7 @@ _Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba_
 
 Born August 4, 1972 in Trinidad of the West Indies, Sri Swami Adi Narayan _(Swami Ji_) arrived in Canada with his parents just shy of his fourth birthday. Settling and growing up in Toronto, Swami Ji was a soft and gentle child, tender and loving in his approach with everyone. Upon completing his primary, junior and high school education, he attended the University of Toronto where he earned a B.Sc. Honours in Psychology.
 
-**The Lord Appears to His Devotee **
+**The Lord Appears to His Devotee**
 
 About to embark upon a regular Western lifestyle, his life arrived at a pivotal turning point when at the age of twenty-one he had his first spiritual encounter with his Guru. It took place in the early morning of 4:00am through a dream on Christmas morning 1993\. As Swami Ji recalls, the dream was of a small Indian holy man wearing a white robe standing in a barren reddish-brown dirt landscape with nothing around him. The holy man had large afro-styled hair, and the distance between them felt as if it was about fifty feet. The holy man was glowing before him, and in an instant Swami Ji was being filled with sensations of deep love and bliss. The whole of the dream was pulsating with a love that he had never felt or experienced before. Shortly thereafter he woke up.
 
@@ -43,7 +43,7 @@ As Bhagavan sat down, the thought emerged from Swami Ji, _'Baba I have filled th
 
 This trip was the first of what would become multiple visits to India. For the next six years, Swami Ji made over a dozen trips to be in the physical presence of Bhagavan. He permanently moved to the ashram in the year 2000\.
 
-During this period from 1994 to 2000, Swami Ji continued to grow and have many enlightening experiences. One of which took place in the year 1995 when he travelled to his birth country of Trinidad in the West Indies. On one excursion to a mountaintop overlooking the beautiful landscape and ocean, overcome by the beauty before him, Swami Ji explained the following: _"I entered into a spiritual state, feeling an absolute oneness with everything: the sea, hills, trees, birds, ants, grass, and the ground that is common to us all." _He heard the Maha Mantra _(Hare Krishna Hare Rama)_ being sung in every atom from every physical and non-physical, living and non-living thing of the world around him. Even his own body was merged and sub-merged in this absolute state of unity.__Swami Ji later referred to this as his First Experience of the Self.
+During this period from 1994 to 2000, Swami Ji continued to grow and have many enlightening experiences. One of which took place in the year 1995 when he travelled to his birth country of Trinidad in the West Indies. On one excursion to a mountaintop overlooking the beautiful landscape and ocean, overcome by the beauty before him, Swami Ji explained the following: _"I entered into a spiritual state, feeling an absolute oneness with everything: the sea, hills, trees, birds, ants, grass, and the ground that is common to us all." _He heard the Maha Mantra _(Hare Krishna Hare Rama)_ being sung in every atom from every physical and non-physical, living and non-living thing of the world around him. Even his own body was merged and sub-merged in this absolute state of unity.Swami Ji later referred to this as his First Experience of the Self.
 
 **Union With God**
 
