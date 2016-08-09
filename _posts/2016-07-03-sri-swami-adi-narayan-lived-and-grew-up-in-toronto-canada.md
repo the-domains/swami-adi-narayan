@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T04:00:34.545Z'
+datePublished: '2016-08-09T20:08:52.058Z'
 sourcePath: _posts/2016-07-03-sri-swami-adi-narayan-lived-and-grew-up-in-toronto-canada.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T04:00:33.342Z'
+dateModified: '2016-08-09T20:07:52.231Z'
 title: ''
 publisher: {}
 description: Sri Swami Adi Narayan
@@ -19,7 +19,7 @@ _type: MediaObject
 
 _Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba_
 
-Born August 4, 1972 in Trinidad of the West Indies, Sri Swami Adi Narayan _(Swami Ji_) arrived in Canada with his parents just shy of his fourth birthday. Settling and growing up in Toronto, Swami Ji was a soft and gentle child, tender and loving in his approach with everyone. Upon completing his primary, junior and high school education, he attended the University of Toronto where he earned a B.Sc. Honours in Psychology.
+Born August 4, 1972 in Trinidad of the West Indies, Sri Swami Adi Narayan _(Swami Ji_) arrived in Canada with his parents just shy of his fourth birthday. Settling and growing up in Toronto, Swami Ji was a soft and gentle child, tender and loving in his approach with everyone. Upon completing his primary, junior and high school education, he attended the University of Toronto where he earned a BSc Honours in Psychology.
 
 **The Lord Appears to His Devotee**
 
@@ -70,9 +70,12 @@ One month later, Bhagavan called Swami Ji for the third of what would become sev
 **Bhagavan's Instruction**
 
 After several interviews with his Master, Bhagavan instructed Swami Ji in 2004 to return to Canada and begin teaching: _"Speak about union with God."_ Bhagavan said to Swami Ji, _"To love me is to serve me, and to serve me is to leave me. Go do satsang, satsang, satsang, satsang, satsang, satsang, satsang."_  
-Upon returning to Canada, Swami Ji began holding satsangs in the form of spiritual talks and kirtans, by his first initiated name Swami Sai Premananda. Meanwhile, his transformation continued.  
-Since 2004, Swami Ji was entering states of bhava samadhi. During this period, the realization of the multifold dance of form and formlessness became apparent and illumined in the mind of Swami Ji. All this led to the understanding of our innate oneness. As he explains, _"Non-duality holds that the fundamental quality imbuing every thing derives from a single undivided universal consciousness. Objects, animals, people and plants differ in form and function. At least, that is how we perceive them. But their nature and ours derive from the same underlying source, the oneness of universal consciousness. This single, non-dual oneness of being makes itself manifest in an infinite number of forms. We experience them as a myriad of objects and beings. But our seemingly separate and distinct human minds and egos derive from this oneness, too."_  
-Swami Ji comments: _"In the one is all, and in the all is one. We can attune ourselves to oneness by letting go of the past and future, and by releasing dependencies on surface mind, and its creature, the intrusive egoic self."_  
+Upon returning to Canada, Swami Ji began holding satsangs in the form of spiritual talks and kirtans, by his first initiated name Swami Sai Premananda. Meanwhile, his transformation continued.
+
+Since 2004, Swami Ji was entering states of bhava samadhi. During this period, the realization of the multifold dance of form and formlessness became apparent and illumined in the mind of Swami Ji. All this led to the understanding of our innate oneness. As he explains, _"Non-duality holds that the fundamental quality imbuing every thing derives from a single undivided universal consciousness. Objects, animals, people and plants differ in form and function. At least, that is how we perceive them. But their nature and ours derive from the same underlying source, the oneness of universal consciousness. This single, non-dual oneness of being makes itself manifest in an infinite number of forms. We experience them as a myriad of objects and beings. But our seemingly separate and distinct human minds and egos derive from this oneness, too."_
+
+Swami Ji comments: _"In the one is all, and in the all is one. We can attune ourselves to oneness by letting go of the past and future, and by releasing dependencies on surface mind, and its creature, the intrusive egoic self."_
+
 **The Perfect Storm**
 
 After years of celebratory satsangs, meditations, blessing and darshan programs, and continuous state and samadhi experiences, the whole of all reached to a collective climax. In 2009, Swami Ji's "perfect storm" began amidst a cataclysmic loss of his sangha, prayer hall, and good name, due to the outside slander and vitriol by the parents of one of his students. Swami Ji would not concede to the parents' request to interfere and disband the coming nuptials between their son and his lead bhajan singer. The parents continued to threaten and harass Swami Ji and devotees; even using physical means and intimidation, with the intention that the couple themselves would decide to break-up to save Swami Ji and the devotees from the constant suffering that all were now facing. Such was the test of love that Swami Ji and his early devotees were all thrust into, and thus began Swami Ji's entry into the dark night of the soul. _(Details available at: [thecontroversyclarified.wordpress.com][0])_.
@@ -94,7 +97,8 @@ _You set my heart barren of all of you. Lifeless, mindless, a dark emptiness was
 _All this yet, I wonder everyday how I survived. The deepest part of my being, hidden from every part of me, you held in your deepest care. _  
 _Now I am alive again, with your Breath in my breath. My heart once again, beating steady and strong, in your Limitless Heart. My mind in peace again, in your Limitless Mind. All of me swells, just as the womb carries the unborn. _  
 _When next I am born, I will become empty yet again. And again you will enter and I will swell with the next, and the next, and the next._  
-_All of me your womb, O Eternal Being of beings._  
+_All of me your womb, O Eternal Being of beings._
+
 **Reflection. Transmission. Absorption.**
 
 Today, as Swami Adi Narayan, Swami Ji continues to live a very reclusive life. He is sought by people all over the world, and with very limited public connection, people are called to find him. While sitting in his prayer room and being oceans apart, recipients connect with him through his offerings of prayers and blessings for them. Through a process of his ascension into the Divine Light, all whom are in contact with him during that time of prayer and blessing receive answers, clarity, healing and the spiritual light that they are yearning for.
