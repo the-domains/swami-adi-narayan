@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T03:53:40.501Z'
+datePublished: '2016-08-09T04:00:34.545Z'
 sourcePath: _posts/2016-07-03-sri-swami-adi-narayan-lived-and-grew-up-in-toronto-canada.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T03:53:39.829Z'
+dateModified: '2016-08-09T04:00:33.342Z'
 title: ''
 publisher: {}
 description: Sri Swami Adi Narayan
