@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-10T02:30:33.256Z'
+datePublished: '2016-08-10T04:40:29.598Z'
 sourcePath: _posts/2016-08-10-sri-swami-adi-narayan.md
 author: []
 via: {}
-dateModified: '2016-08-10T02:30:32.265Z'
+dateModified: '2016-08-10T04:40:29.135Z'
 title: Sri Swami Adi Narayan
 publisher: {}
 description: Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba
@@ -47,7 +47,35 @@ During this period from 1994 to 2000, Swami Ji continued to grow and have many e
 
 **Union With God**
 
-Swami Ji's spirituality blossomed during his time with Bhagavan in India. One day he was meditating in front of a photo of Bhagavan and he was feeling a deep pain of separation and longing for his Beloved. In a moment of exhaustive longing of not having the chance to sit in a one-on-one interview or private meeting with his Master till this point, a moment of absolute surrender broke through. It was as if, for the first time, his Master was seeing into him and he was seeing back into his Lord, Bhagavan Sri Sathya Sai Baba. _"I saw his eyes filled in the photo with tears. A watery sea of love had appeared before me and in an instant, torrents of energy rushed into my body in waves imparting sensations of happiness, peace and boundless bliss."_ This was one of Swami Ji's deepest samadhi states, wherein more than six hours had elapsed in a seeming instant. _"Time exists only in the presence of mind,"_ says Swami Ji.
+Swami Ji's spirituality blossomed during his time with Bhagavan in India. One day he was meditating in front of a photo of Bhagavan and he was feeling a deep pain of separation and longing for his Beloved. In a moment of exhaustive longing of not having the chance to sit in a one-on-one interview or private meeting with his Master till this point, a moment of absolute surrender broke through. It was as if, for the first time, his Master was seeing into him and he was seeing back into his Lord, Bhagavan Sri Sathya Sai Baba.
+
+_It all began in one moment, one deep piercing glance, into Bhagavan's eyes. My eyes to his eyes. Locked._
+
+_I saw his eyes filled in the photo with tears. A watery sea of love had appeared before me and in an instant locked in an inner embrace. And then, something opened. It was if I had become an open door, of which the Lord had now stepped into._
+
+_It began by feelings of gentle waves, of deep love, happiness, joy. And slowly and rapidly, both at the same time, increasing in joy, happiness, love,_
+
+_joy, happiness, love,_
+
+_bliss, love, bliss, love,_
+
+_bliss, bliss, bliss, bliss,_
+
+_love, love, love._
+
+_The entirety of my being began as a stream, then turned into a river, then became a raging flood as vast as the ocean's itself; pouring down into and through this body. Absolute, indescribable, bliss._
+
+_This experience continued for over six hours. I had not known exactly what time it began. Only that it had happened sometime before mid-day. And when I opened my eyes, and became aware of myself and the world again, it was somewhere around evening that same day._
+
+_That was the day I achieved union with the Lord._
+
+_What began as a gentle rainfall, continued into a shower, a thunderstorm, which made a stream, which turned into a river, a Ganga, then the ocean itself pouring into me and through me._
+
+_Indescribable, bliss, love, joy; pure continuous love._
+
+_A love that encompassed everything, that was everything, that made everything, was all about everything, and everything was also it. Totality of the whole universe was that feeling of that immensity of that love. That love was absolutely everything that ever was, everything that ever is, everything that ever will be, and that was, God._
+
+This was one of Swami Ji's deepest samadhi states, wherein more than six hours had elapsed in a seeming instant. _"Time exists only in the presence of mind,"_ says Swami Ji.
 
 The next day, to Swami Ji's surprise, Bhagavan arranged an interview _(private meeting)_ with him where he talked to him amongst a small group of devotees about his experience.
 
