@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-10T02:16:23.862Z'
+datePublished: '2016-08-10T04:26:46.189Z'
 sourcePath: _posts/2016-08-10-blessings-the-bestowal-of-grace.md
 author: []
 via: {}
-dateModified: '2016-08-10T02:16:23.532Z'
+dateModified: '2016-08-10T04:26:45.816Z'
 title: Blessings - The Bestowal of Grace
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ _type: MediaObject
 
 ---
 # Blessings - The Bestowal of Grace
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f20a519-4360-4ef9-8476-177354a49c56.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/015ce9e9-adb8-45b0-af95-ee7a81863378.jpg)
 
 _"The blessings are a deepening and awakening of your own inherent connection to love, peace, and bliss. Being connected in a deeper way to what is within you, around, above you, behind you and in front of you: God. I am here to assist your deepening in that connection."_
 
