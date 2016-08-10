@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-10T04:45:14.580Z'
+datePublished: '2016-08-10T04:57:56.731Z'
 sourcePath: _posts/2016-08-10-blessings-the-bestowal-of-grace.md
 author: []
 via: {}
-dateModified: '2016-08-10T04:45:13.979Z'
+dateModified: '2016-08-10T04:57:56.299Z'
 title: Blessings - The Bestowal of Grace
 publisher: {}
 description: >-
