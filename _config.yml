@@ -19,6 +19,9 @@ navigation:
   - name: Blessings
     id: ccafa489-9e46-4967-82dc-4536e1988d4e
     type: content
+  - name: Testimonials
+    id: eab169b7-d5e1-4798-835c-17ad6fe79f08
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/648dee88-7143-46f3-9e7b-6c9fa8574089.jpg
 title: '"I passed through nothingness, and came back for love."'
