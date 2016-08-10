@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-10T04:40:29.598Z'
+datePublished: '2016-08-10T04:44:14.774Z'
 sourcePath: _posts/2016-08-10-sri-swami-adi-narayan.md
 author: []
 via: {}
-dateModified: '2016-08-10T04:40:29.135Z'
+dateModified: '2016-08-10T04:44:14.176Z'
 title: Sri Swami Adi Narayan
 publisher: {}
 description: Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: sri-swami-adi-narayan/index.html
+_type: Blurb
 
 ---
 # Sri Swami Adi Narayan
