@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-10T05:25:10.000Z'
+datePublished: '2016-08-10T05:31:24.041Z'
 sourcePath: _posts/2016-08-10-testimonials.md
 author: []
 via: {}
-dateModified: '2016-08-10T05:25:09.581Z'
+dateModified: '2016-08-10T05:31:23.571Z'
 title: Testimonials
 publisher: {}
 description: >-
