@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-10T04:26:46.189Z'
+datePublished: '2016-08-10T04:45:14.580Z'
 sourcePath: _posts/2016-08-10-blessings-the-bestowal-of-grace.md
 author: []
 via: {}
-dateModified: '2016-08-10T04:26:45.816Z'
+dateModified: '2016-08-10T04:45:13.979Z'
 title: Blessings - The Bestowal of Grace
 publisher: {}
 description: >-
@@ -11,11 +11,10 @@ description: >-
   to love, peace, and bliss. Being connected in a deeper way to what is within
   you, around, above you, behind you and in front of you: God. I am here to
   assist your deepening in that connection.”
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: blessings-the-bestowal-of-grace/index.html
+_type: Blurb
 
 ---
 # Blessings - The Bestowal of Grace
