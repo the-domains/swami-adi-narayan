@@ -1,13 +1,13 @@
 ---
-description: Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba
-dateModified: '2016-08-10T02:11:10.623Z'
-datePublished: '2016-08-10T02:11:20.101Z'
-title: Sri Swami Adi Narayan
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-10T02:30:33.256Z'
 sourcePath: _posts/2016-08-10-sri-swami-adi-narayan.md
+author: []
+via: {}
+dateModified: '2016-08-10T02:30:32.265Z'
+title: Sri Swami Adi Narayan
+publisher: {}
+description: Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -15,7 +15,7 @@ _type: MediaObject
 
 ---
 # Sri Swami Adi Narayan
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1d64b51-cd9a-4871-865a-e12c739d91cf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/854cba63-b09d-456a-8c56-4c75614e08bf.jpg)
 
 _**Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba**_
 
