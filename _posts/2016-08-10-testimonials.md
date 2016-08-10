@@ -1,19 +1,18 @@
 ---
-datePublished: '2016-08-10T05:21:49.933Z'
+datePublished: '2016-08-10T05:25:10.000Z'
 sourcePath: _posts/2016-08-10-testimonials.md
 author: []
 via: {}
-dateModified: '2016-08-10T05:21:49.534Z'
+dateModified: '2016-08-10T05:25:09.581Z'
 title: Testimonials
 publisher: {}
 description: >-
   Testimonials shared by recipients of Sri Swami Adi Narayan’s blessing
   transmission.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: testimonials/index.html
+_type: Blurb
 
 ---
 # Testimonials
