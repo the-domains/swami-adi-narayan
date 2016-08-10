@@ -1,15 +1,15 @@
 ---
+datePublished: '2016-08-10T05:21:49.933Z'
+sourcePath: _posts/2016-08-10-testimonials.md
+author: []
+via: {}
+dateModified: '2016-08-10T05:21:49.534Z'
+title: Testimonials
+publisher: {}
 description: >-
   Testimonials shared by recipients of Sri Swami Adi Narayan’s blessing
   transmission.
-dateModified: '2016-08-10T05:14:51.641Z'
-datePublished: '2016-08-10T05:15:10.943Z'
-title: Testimonials
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-10-testimonials.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -17,7 +17,7 @@ _type: MediaObject
 
 ---
 # Testimonials
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7eb2841336980eeb3c14aa2d7fbafa33/croprotate.jpg?cropheight=4878&cropwidth=7292&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbe1de08c-73c3-45b6-9b54-54efdc2c7802.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cca729445287e2191c32c282cb5d9db2499e245.jpg)
 
 **Testimonials shared by recipients of Sri Swami Adi Narayan's blessing transmission.**
 
