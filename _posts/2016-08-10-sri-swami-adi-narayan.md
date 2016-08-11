@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-10T13:56:28.536Z'
+datePublished: '2016-08-11T03:41:34.718Z'
 sourcePath: _posts/2016-08-10-sri-swami-adi-narayan.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-10T13:56:28.120Z'
+dateModified: '2016-08-11T03:41:33.794Z'
 title: Sri Swami Adi Narayan
 publisher: {}
 description: Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba
-hasPage: true
 starred: false
 url: sri-swami-adi-narayan/index.html
 _type: Blurb
@@ -42,7 +42,7 @@ As Bhagavan sat down, the thought emerged from Swami Ji, _'Baba I have filled th
 
 This trip was the first of what would become multiple visits to India. For the next six years, Swami Ji made over a dozen trips to be in the physical presence of Bhagavan. He permanently moved to the ashram in the year 2000\.
 
-During this period from 1994 to 2000, Swami Ji continued to grow and have many enlightening experiences. One of which took place in the year 1995 when he travelled to his birth country of Trinidad in the West Indies. On one excursion to a mountaintop overlooking the beautiful landscape and ocean, overcome by the beauty before him, Swami Ji explained the following: _"I entered into a spiritual state, feeling an absolute oneness with everything: the sea, hills, trees, birds, ants, grass, and the ground that is common to us all." _He heard the Maha Mantra _(Hare Krishna Hare Rama)_ being sung in every atom from every physical and non-physical, living and non-living thing of the world around him. Even his own body was merged and sub-merged in this absolute state of unity.Swami Ji later referred to this as his First Experience of the Self.
+During this period from 1994 to 2000, Swami Ji continued to grow and have many enlightening experiences. One of which took place in the year 1995 when he travelled to his birth country of Trinidad in the West Indies. On one excursion to a mountaintop overlooking the beautiful landscape and ocean, overcome by the beauty before him, Swami Ji explained the following: _"I entered into a spiritual state, feeling an absolute oneness with everything: the sea, hills, trees, birds, ants, grass, and the ground that is common to us all." _He heard the Maha Mantra _(Hare Krishna Hare Rama)_ being sung in every atom from every physical and non-physical, living and non-living thing of the world around him. Even his own body was merged and sub-merged in this absolute state of unity. Swami Ji later referred to this as his First Experience of the Self.
 
 **Union With God**
 
