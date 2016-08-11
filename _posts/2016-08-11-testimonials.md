@@ -2,18 +2,17 @@
 description: >-
   Testimonials shared by recipients of Sri Swami Adi Narayan’s blessing
   transmission.
-dateModified: '2016-08-11T04:06:00.241Z'
-datePublished: '2016-08-11T04:06:39.513Z'
+dateModified: '2016-08-11T04:11:18.381Z'
+datePublished: '2016-08-11T04:11:19.484Z'
 title: Testimonials
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-testimonials.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: testimonials/index.html
+_type: Blurb
 
 ---
 # Testimonials
