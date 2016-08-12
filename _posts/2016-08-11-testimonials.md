@@ -1,15 +1,15 @@
 ---
+datePublished: '2016-08-12T02:39:07.808Z'
+sourcePath: _posts/2016-08-11-testimonials.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-12T02:39:07.424Z'
+title: Testimonials
+publisher: {}
 description: >-
   Testimonials shared by recipients of Sri Swami Adi Narayan’s blessing
   transmission.
-dateModified: '2016-08-11T04:11:18.381Z'
-datePublished: '2016-08-11T04:11:19.484Z'
-title: Testimonials
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-11-testimonials.md
-hasPage: true
 starred: false
 url: testimonials/index.html
 _type: Blurb
@@ -40,7 +40,7 @@ I feel SO BLESSED and I wanted to share this good news with you. I will continue
 
 With Utmost Gratitude,"
 
--- K. Digavally n Pranav, USA
+-- K. Digavally and Pranav, USA
 
 "I've had pelvic pain for about 2-3 years, but for the last 4 months it was very painful; nerve pain in the pelvic area and headaches. My pain score before the healing was 9, and then after was 5! I received two healings from Swamiji; I found it to be very relaxing and stress-free. After the healing, my doctor told me I can go on vacation! I told him I have stopped all my medications and I just use painkillers when the pain is intense, and he was very much surprised. My overall health status is medium and I'm looking forward to a full recovery in a positive way, by engaging myself in more meaningful health activities. Sai Ram, Thank you."
 
@@ -84,7 +84,9 @@ Gratitude and continue in this way, in this process with each and every one of y
 
 -- L. Love, USA
 
-"Late to satsang and rushing to a shady place in my garden, no sooner than giving thanks I folded into a river of light, much like the one I experienced with wonder as a near death experience many years ago. No fear at all, only the magnificent energy of Gods pure unconditional love. Thank you Swamiji for today's blessing." -- S. Hicks, USA
+"Late to satsang and rushing to a shady place in my garden, no sooner than giving thanks I folded into a river of light, much like the one I experienced with wonder as a near death experience many years ago. No fear at all, only the magnificent energy of Gods pure unconditional love. Thank you Swamiji for today's blessing." 
+
+-- S. Hicks, USA
 
 "Ahh Swami I feel so gifted to be in your presence, such loving kindness. Tonight was interesting for me. I felt something I haven't been aware of before, there was a very subtle vibration-kind of like when electricity is vibrating thru a wire. I felt it begin in my feet and legs and move upward to my heart and head and fill my entire body-energy body. I have not been able to reach the subtleness of this before-to be aware of it. And it is such a blessing to have this meeting of Spirit as it helps me to take the time to be with Self. Much much love to you Swami, and to the rest of the group."
 
@@ -96,7 +98,7 @@ Gratitude and continue in this way, in this process with each and every one of y
 
 "I had more than faith before I started the experience and now I have total belief."
 
--- R. Khuti, UK
+-- R. Sharma, UK
 
 "I want to give thanks, deep thanks for Swami's blessings and prayers, my soul was quiet, calm and completely at home, pure bliss, Namaste."
 
@@ -128,7 +130,7 @@ Gratitude and continue in this way, in this process with each and every one of y
 
 "The first 15 minutes I felt intense energy like when I wake up from deep sleep and know that Jesus was with me, like electricity from the top of my head to the spine and all the way down to my feet. I feel this way also only during deep meditation. Waves of energy moved the inside of my body also for a little while. Thank you for the blessings."
 
--- K. Sanderson, USA
+-- K. Saburn, USA
 
 "I felt the happiness of knowing you are there for us and a deep quiet which was very appreciated! Thank you Swami, what a gracious soul you are."
 
