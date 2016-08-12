@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-12T02:57:34.301Z'
+datePublished: '2016-08-12T03:18:57.827Z'
 sourcePath: _posts/2016-08-10-blessings-the-bestowal-of-grace.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-12T02:57:33.897Z'
+dateModified: '2016-08-12T03:18:57.374Z'
 title: Blessings
 publisher: {}
 description: >-
@@ -42,4 +42,6 @@ The energy being transmitted is innately intelligent. At the time of the blessin
 
 The blessing allows for a greater opening for the effulgent Divine Light to be reflected upon the surface of one's mental, emotional, and physical consciousness. This allows for the reflection, transmission and absorption in the Lord to be achieved. One can equate this as switching from a low-speed to a high-speed Internet connection. It is Swami Ji's prayer that, through this strengthened connection to the grace bestowing spirit of the Divine, the lives of recipients become improved through the fulfillment of their prayers and wishes and the highest vision of themselves to become realized
 
-Please visit our Testimonials page to read how people have benefitted from Swami Ji's blessings.
+Please visit our [Testimonials][0] page to read how people have benefitted from Swami Ji's blessings.
+
+[0]: http://swamiadinarayan.com/testimonials/
