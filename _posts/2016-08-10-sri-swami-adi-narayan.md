@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-11T03:41:34.718Z'
+datePublished: '2016-08-12T02:42:45.847Z'
 sourcePath: _posts/2016-08-10-sri-swami-adi-narayan.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-11T03:41:33.794Z'
-title: Sri Swami Adi Narayan
+dateModified: '2016-08-12T02:42:45.442Z'
+title: About
 publisher: {}
 description: Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba
 starred: false
@@ -13,8 +13,10 @@ url: sri-swami-adi-narayan/index.html
 _type: Blurb
 
 ---
-# Sri Swami Adi Narayan
+# About
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/854cba63-b09d-456a-8c56-4c75614e08bf.jpg)
+
+# Sri Swami Adi Narayan
 
 _**Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba**_
 
