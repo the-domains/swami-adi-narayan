@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-12T02:51:19.271Z'
+datePublished: '2016-08-12T02:55:01.211Z'
 sourcePath: _posts/2016-08-10-sri-swami-adi-narayan.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-12T02:51:18.788Z'
+dateModified: '2016-08-12T02:55:00.614Z'
 title: About
 publisher: {}
 description: Biographical Sketch and Early Days with Bhagavan Sri Sathya Sai Baba
