@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-12T02:46:38.682Z'
+datePublished: '2016-08-12T02:55:24.318Z'
 sourcePath: _posts/2016-08-10-blessings-the-bestowal-of-grace.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-12T02:46:38.340Z'
+dateModified: '2016-08-12T02:55:23.753Z'
 title: Blessings
 publisher: {}
 description: >-
@@ -18,7 +18,7 @@ _type: Blurb
 
 ---
 # Blessings
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff041d71e9cf9b838f8e7ba2676222e5/croprotate.jpg?cropheight=4878&cropwidth=7292&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F015ce9e9-adb8-45b0-af95-ee7a81863378.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df777e7685d41a6e475e6eb84bfc862d2107e735.jpg)
 
 # The Bestowal of Grace
 
