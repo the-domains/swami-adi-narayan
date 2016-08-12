@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-12T02:39:07.808Z'
+datePublished: '2016-08-12T02:55:42.548Z'
 sourcePath: _posts/2016-08-11-testimonials.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-12T02:39:07.424Z'
+dateModified: '2016-08-12T02:55:42.188Z'
 title: Testimonials
 publisher: {}
 description: >-
@@ -84,7 +84,7 @@ Gratitude and continue in this way, in this process with each and every one of y
 
 -- L. Love, USA
 
-"Late to satsang and rushing to a shady place in my garden, no sooner than giving thanks I folded into a river of light, much like the one I experienced with wonder as a near death experience many years ago. No fear at all, only the magnificent energy of Gods pure unconditional love. Thank you Swamiji for today's blessing." 
+"Late to satsang and rushing to a shady place in my garden, no sooner than giving thanks I folded into a river of light, much like the one I experienced with wonder as a near death experience many years ago. No fear at all, only the magnificent energy of Gods pure unconditional love. Thank you Swamiji for today's blessing."
 
 -- S. Hicks, USA
 
