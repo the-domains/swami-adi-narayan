@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-08-12T03:00:35.472Z'
+datePublished: '2016-08-12T03:04:37.556Z'
 sourcePath: _posts/2016-08-11-testimonials.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-12T03:00:35.050Z'
+dateModified: '2016-08-12T03:04:37.239Z'
 title: Testimonials
 publisher: {}
 description: >-
-  Testimonials shared by recipients of Sri Swami Adi Narayan’s blessing
-  transmission.
+  To share your blessing testimonials and experience, please Contact Us through
+  our website. All testimonials are gratefully received and serve as words of
+  inspiration, encouragement and hope for others.
 starred: false
 url: testimonials/index.html
 _type: Blurb
@@ -18,7 +19,7 @@ _type: Blurb
 # Testimonials
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12fc3f7d-8ca7-4f75-9a36-60e570f7eecf.jpg)
 
-**Testimonials shared by recipients of Sri Swami Adi Narayan's blessing transmission.**
+# **Testimonials shared by recipients of Sri Swami Adi Narayan's blessing transmission.**
 
 To share your blessing testimonials and experience, please Contact Us through our website. All testimonials are gratefully received and serve as words of inspiration, encouragement and hope for others.
 
