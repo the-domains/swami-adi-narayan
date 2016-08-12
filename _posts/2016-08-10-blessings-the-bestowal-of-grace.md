@@ -1,24 +1,26 @@
 ---
-datePublished: '2016-08-10T14:02:48.297Z'
+datePublished: '2016-08-12T02:46:38.682Z'
 sourcePath: _posts/2016-08-10-blessings-the-bestowal-of-grace.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-10T14:02:47.918Z'
-title: Blessings - The Bestowal of Grace
+dateModified: '2016-08-12T02:46:38.340Z'
+title: Blessings
 publisher: {}
 description: >-
   “The blessings are a deepening and awakening of your own inherent connection
   to love, peace, and bliss. Being connected in a deeper way to what is within
   you, around, above you, behind you and in front of you: God. I am here to
   assist your deepening in that connection.”
-hasPage: true
 starred: false
 url: blessings-the-bestowal-of-grace/index.html
 _type: Blurb
 
 ---
-# Blessings - The Bestowal of Grace
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/015ce9e9-adb8-45b0-af95-ee7a81863378.jpg)
+# Blessings
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff041d71e9cf9b838f8e7ba2676222e5/croprotate.jpg?cropheight=4878&cropwidth=7292&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F015ce9e9-adb8-45b0-af95-ee7a81863378.jpg&x=0&y=0)
+
+# The Bestowal of Grace
 
 _"The blessings are a deepening and awakening of your own inherent connection to love, peace, and bliss. Being connected in a deeper way to what is within you, around, above you, behind you and in front of you: God. I am here to assist your deepening in that connection."_
 
