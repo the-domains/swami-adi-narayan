@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-12T02:55:24.318Z'
+datePublished: '2016-08-12T02:57:34.301Z'
 sourcePath: _posts/2016-08-10-blessings-the-bestowal-of-grace.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-12T02:55:23.753Z'
+dateModified: '2016-08-12T02:57:33.897Z'
 title: Blessings
 publisher: {}
 description: >-
