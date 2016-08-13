@@ -12,18 +12,17 @@ description: >-
   you with its openhearted pronouncements of undying love that cuts across all
   boundaries of differing cultures and religions, uniting mankind in his one
   pure aspiration and longing for union with the Beloved.
-dateModified: '2016-08-13T04:08:16.182Z'
-datePublished: '2016-08-13T04:08:58.017Z'
+dateModified: '2016-08-13T04:10:09.299Z'
+datePublished: '2016-08-13T04:10:09.618Z'
 title: 'The Beloved: A Song of Eternal Love'
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-13-the-beloved-a-song-of-eternal-love.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: the-beloved-a-song-of-eternal-love/index.html
+_type: Blurb
 
 ---
 # The Beloved: A Song of Eternal Love
