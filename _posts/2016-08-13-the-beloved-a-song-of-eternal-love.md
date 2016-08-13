@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-13T04:28:21.357Z'
+datePublished: '2016-08-13T04:39:04.508Z'
 sourcePath: _posts/2016-08-13-the-beloved-a-song-of-eternal-love.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T04:28:20.651Z'
+dateModified: '2016-08-13T04:39:04.186Z'
 title: 'The Beloved: A Song of Eternal Love'
 publisher: {}
 description: >-
