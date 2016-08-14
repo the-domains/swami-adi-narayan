@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-13T04:31:32.870Z'
+datePublished: '2016-08-14T15:52:10.266Z'
 sourcePath: _posts/2016-08-11-testimonials.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T04:31:31.583Z'
+dateModified: '2016-08-14T15:52:09.716Z'
 title: Testimonials
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ _type: Blurb
 
 ### **Testimonials shared by recipients of Sri Swami Adi Narayan's blessing transmission.**
 
-To share your blessing testimonials and experience, please Contact Us through our website. All testimonials are gratefully received and serve as words of inspiration, encouragement and hope for others.
+To share your blessing testimonials and experience, please [Contact Us][0] through our website. All testimonials are gratefully received and serve as words of inspiration, encouragement and hope for others.
 
 Autistic Boy Begins to Speak After Swami Adi Narayan's Remote Blessing Transmission
 
@@ -136,3 +136,5 @@ Gratitude and continue in this way, in this process with each and every one of y
 "I felt the happiness of knowing you are there for us and a deep quiet which was very appreciated! Thank you Swami, what a gracious soul you are."
 
 -- S. Morgan, Canada
+
+[0]: http://www.emailmeform.com/builder/form/d2dRb1920BT580rH8X
