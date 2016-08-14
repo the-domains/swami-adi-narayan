@@ -13,18 +13,6 @@ color:
 layout_spectrum: 0.03679013694636524
 name: Sri Swami Adi Narayan
 navigation:
-  - name: About
-    id: 504ec7fc-5b8d-4441-9725-e7ce5122db25
-    type: content
-  - name: Blessings
-    id: ccafa489-9e46-4967-82dc-4536e1988d4e
-    type: content
-  - name: Testimonials
-    id: ac1c3f01-2af2-4430-bcdb-06667f7c2911
-    type: content
-  - name: The Beloved
-    id: 5b57461e-d796-4e5b-9bf8-867014427ee8
-    type: content
   - name: Contact Us
     url: 'http://www.emailmeform.com/builder/form/d2dRb1920BT580rH8X'
     type: external
