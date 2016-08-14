@@ -22,6 +22,9 @@ navigation:
   - name: Testimonials
     id: ac1c3f01-2af2-4430-bcdb-06667f7c2911
     type: content
+  - name: The Beloved
+    id: 5b57461e-d796-4e5b-9bf8-867014427ee8
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/648dee88-7143-46f3-9e7b-6c9fa8574089.jpg
 title: '"I passed through nothingness, and came back for love."'
