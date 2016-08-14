@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T23:33:39.674Z'
+datePublished: '2016-08-14T23:38:52.918Z'
 sourcePath: _posts/2016-08-11-testimonials.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T23:33:39.088Z'
+dateModified: '2016-08-14T23:38:52.221Z'
 title: Testimonials
 publisher: {}
 description: >-
@@ -48,7 +48,11 @@ With Utmost Gratitude,"
 
 -- K. Maharaj, Canada
 
+    <br/>
+
     <HR WIDTH="100%">
+
+    <br/>
 
 "Swami Adi Narayan Ji's prayers and transmissions are very powerful and have already helped so many of my friends at work and fellow seekers by looking at his photo. Please consider attending one of the healing sessions. You will not regret it!"
 
