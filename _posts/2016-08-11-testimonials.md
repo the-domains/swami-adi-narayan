@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T22:40:05.928Z'
+datePublished: '2016-08-14T22:46:17.230Z'
 sourcePath: _posts/2016-08-11-testimonials.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T22:40:05.358Z'
+dateModified: '2016-08-14T22:46:16.875Z'
 title: Testimonials
 publisher: {}
 description: >-
@@ -47,6 +47,8 @@ With Utmost Gratitude,"
 "I've had pelvic pain for about 2-3 years, but for the last 4 months it was very painful; nerve pain in the pelvic area and headaches. My pain score before the healing was 9, and then after was 5! I received two healings from Swamiji; I found it to be very relaxing and stress-free. After the healing, my doctor told me I can go on vacation! I told him I have stopped all my medications and I just use painkillers when the pain is intense, and he was very much surprised. My overall health status is medium and I'm looking forward to a full recovery in a positive way, by engaging myself in more meaningful health activities. Sai Ram, Thank you."
 
 -- K. Maharaj, Canada
+
+    <HR WIDTH="60%">
 
 "Swami Adi Narayan Ji's prayers and transmissions are very powerful and have already helped so many of my friends at work and fellow seekers by looking at his photo. Please consider attending one of the healing sessions. You will not regret it!"
 
