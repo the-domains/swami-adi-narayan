@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T20:23:43.849Z'
+datePublished: '2016-08-14T22:41:13.344Z'
 sourcePath: _posts/2016-08-10-blessings-the-bestowal-of-grace.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T20:23:43.109Z'
+dateModified: '2016-08-14T22:41:13.025Z'
 title: Blessings
 publisher: {}
 description: >-
@@ -32,7 +32,7 @@ From the endless Ocean of Love, flows Divine Grace: the Universal Light reflecte
 
 **Blessings**
 
-Sri Swami Adi Narayan's sole call to being is the direct deliverance of an effulgent and evident spiritual transmission from Supreme Reality. Through constant communion with Sri Swami Adi Narayan, his spiritual transmission helps to awaken and experience deepened connection to their Divine nature.
+Sri Swami Adi Narayan's sole call to being is the direct deliverance of an effulgent and evident spiritual transmission from Supreme Reality. Through meditative communion with Sri Swami Adi Narayan, his spiritual transmission helps to awaken and experience deepened connection to their Divine nature.
 
 Blessings are given for the peace, healing, abundance, deepening of spiritual development, and overall well-being of the participants.
 
