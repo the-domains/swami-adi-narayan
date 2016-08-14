@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T20:51:19.799Z'
+datePublished: '2016-08-14T22:31:18.947Z'
 sourcePath: _posts/2016-08-11-testimonials.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T20:51:19.268Z'
+dateModified: '2016-08-14T22:31:18.561Z'
 title: Testimonials
 publisher: {}
 description: >-
