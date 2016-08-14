@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T22:31:18.947Z'
+datePublished: '2016-08-14T22:40:05.928Z'
 sourcePath: _posts/2016-08-11-testimonials.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T22:31:18.561Z'
+dateModified: '2016-08-14T22:40:05.358Z'
 title: Testimonials
 publisher: {}
 description: >-
@@ -42,7 +42,7 @@ I feel SO BLESSED and I wanted to share this good news with you. I will continue
 With Utmost Gratitude,"
 
 -- K. Digavally and Pranav, USA
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c33c06aa-a1ba-412c-a54b-58ba27236846.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ca4987-d173-433e-a2e4-a995dddfb6cb.png)
 
 "I've had pelvic pain for about 2-3 years, but for the last 4 months it was very painful; nerve pain in the pelvic area and headaches. My pain score before the healing was 9, and then after was 5! I received two healings from Swamiji; I found it to be very relaxing and stress-free. After the healing, my doctor told me I can go on vacation! I told him I have stopped all my medications and I just use painkillers when the pain is intense, and he was very much surprised. My overall health status is medium and I'm looking forward to a full recovery in a positive way, by engaging myself in more meaningful health activities. Sai Ram, Thank you."
 
