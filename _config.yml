@@ -25,9 +25,6 @@ navigation:
   - name: The Beloved
     id: 5b57461e-d796-4e5b-9bf8-867014427ee8
     type: content
-  - name: Contact Us
-    url: 'http://www.emailmeform.com/builder/form/d2dRb1920BT580rH8X'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/648dee88-7143-46f3-9e7b-6c9fa8574089.jpg
 title: '"I passed through nothingness, and came back for love."'
