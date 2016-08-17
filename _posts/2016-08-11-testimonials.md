@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-17T15:21:38.304Z'
+datePublished: '2016-08-17T16:22:01.117Z'
 sourcePath: _posts/2016-08-11-testimonials.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T15:21:37.672Z'
+dateModified: '2016-08-17T16:22:00.577Z'
 title: Testimonials
 publisher: {}
 description: >-
@@ -23,7 +23,7 @@ _type: Blurb
 
 To share your blessing testimonials and experience, please [Contact Us][0] through our website. All testimonials are gratefully received and serve as words of inspiration, encouragement and hope for others.
 
-    <br/> <HR WIDTH="100%> <br/>
+------------------------------------------------------------------------------------------------------------------------------------
 
 Autistic Boy Begins to Speak After Swami Adi Narayan's Remote Blessing Transmission
 
