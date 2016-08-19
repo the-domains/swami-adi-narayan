@@ -1,5 +1,4 @@
 typography_spectrum: 0.5133791659027338
-style: the-composer
 color:
   brandStrength: 0.17866795812733471
   lightness: 0.6040168302133679
@@ -31,4 +30,4 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/648dee88-7143-46f3-9e7b-6c9fa8574089.jpg
-title: '"I passed through nothingness, and came back for love."'
+title: ''
