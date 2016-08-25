@@ -4,7 +4,7 @@
         <description><![CDATA[Sri Swami Adi Narayan]]></description>
         <link>http://swamiadinarayan.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 14:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 03:01:10 GMT</lastBuildDate>
         <atom:link href="http://swamiadinarayan.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://swamiadinarayan.com/8d86b5d6-8aab-4d05-95da-6215532d5a3e/index.html</link>
             <guid isPermaLink="false">8d86b5d6-8aab-4d05-95da-6215532d5a3e</guid>
             <pubDate>Tue, 12 Jul 2016 04:08:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/610165ee-fcf2-4408-8700-2a963d88585c.png" alt="Twitter">]]></description>
+            <link>https://twitter.com/swamiadinarayan</link>
+            <guid isPermaLink="false">7c5ef5c9-d695-44aa-95f9-70ea48a0206c</guid>
+            <pubDate>Thu, 25 Aug 2016 03:01:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
