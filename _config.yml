@@ -1,4 +1,3 @@
-layout_spectrum: 0.8368476943578571
 typography_spectrum: 0.3649048169609159
 color:
   brandStrength: 0.35345494537614286
@@ -11,6 +10,7 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
+layout_spectrum: 0.8368476943578571
 name: Sri Swami Adi Narayan
 navigation:
   - name: About
@@ -31,4 +31,4 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/648dee88-7143-46f3-9e7b-6c9fa8574089.jpg
 title: ''
-description: ''
+description: '"I passed through nothingness, and came back for love."'
