@@ -1,4 +1,5 @@
-typography_spectrum: 0.3649048169609159
+layout_spectrum: 0.8368476943578571
+typography_spectrum: 0.9809250037651509
 color:
   brandStrength: 0.35345494537614286
   lightness: 0.8866517767310143
@@ -10,7 +11,6 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-layout_spectrum: 0.8368476943578571
 name: Sri Swami Adi Narayan
 navigation:
   - name: About
